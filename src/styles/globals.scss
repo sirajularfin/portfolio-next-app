@@ -1,0 +1,17 @@
+@import './theme.scss';
+
+html,
+body,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--DARK-900);
+}
+
+main {
+  margin: 0 auto;
+  max-width: var(--DEFAULT_MAX_WIDTH);
+}
