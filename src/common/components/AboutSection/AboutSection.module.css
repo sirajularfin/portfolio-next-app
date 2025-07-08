@@ -7,13 +7,13 @@
 .heading {
   border-bottom-left-radius: 12px;
   border-bottom-right-radius: 12px;
-  color: var(--grey-600);
-  font-family: var(--inter-light);
+  color: var(--GREY-600);
+  font-family: var(--INTER_LIGHT);
   font-size: 24px;
   line-height: 32px;
   padding: 4px 20px;
   border-bottom-width: 12px;
-  border-image: linear-gradient(90deg, var(--blue-800), var(--blue));
+  border-image: linear-gradient(90deg, var(--BLUE-800), var(--BLUE));
   text-align: center;
 }
 
@@ -22,9 +22,9 @@
 }
 
 .description {
-  color: var(--grey-600);
+  color: var(--GREY-600);
   font-size: 16px;
-  font-family: var(--inter-light);
+  font-family: var(--INTER_LIGHT);
   line-height: 24px;
   margin: 20px 0;
 }
