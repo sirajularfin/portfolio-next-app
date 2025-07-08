@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 import DefaultHeader from '@/common/components/DefaultHeader/DefaultHeader';
 import '@/styles/fonts.css';
-import './globals.css';
+import './globals.scss';
 
 export const metadata: Metadata = {
   title: 'Portfolio - Sirajul Arfin',

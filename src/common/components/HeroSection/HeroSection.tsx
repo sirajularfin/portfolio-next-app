@@ -1,5 +1,5 @@
 import { ArrowCircleDownIcon, OrgamiVectorIcon } from '@/assets/Icons';
-import classes from './HeroSection.module.css';
+import classes from './HeroSection.module.scss';
 
 const Hero = () => {
   return (

@@ -70,9 +70,9 @@ export default function OrigamiVector() {
           width="193.716"
           height="91.5311"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
@@ -105,9 +105,9 @@ export default function OrigamiVector() {
           width="191.336"
           height="283.864"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
@@ -140,9 +140,9 @@ export default function OrigamiVector() {
           width="102.124"
           height="289.326"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
@@ -175,9 +175,9 @@ export default function OrigamiVector() {
           width="361.37"
           height="346.202"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
@@ -210,9 +210,9 @@ export default function OrigamiVector() {
           width="110.778"
           height="70.1782"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
@@ -246,8 +246,8 @@ export default function OrigamiVector() {
           y2="320"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#BC96E6" stop-opacity="0.1" />
-          <stop offset="1" stop-color="white" stop-opacity="0.1" />
+          <stop stopColor="#BC96E6" stopOpacity="0.1" />
+          <stop offset="1" stopColor="white" stopOpacity="0.1" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_3155_2213"
@@ -257,8 +257,8 @@ export default function OrigamiVector() {
           y2="459.501"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#4063B7" />
-          <stop offset="1" stop-color="#F9FAFB" />
+          <stop stopColor="#4063B7" />
+          <stop offset="1" stopColor="#F9FAFB" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_3155_2213"
@@ -268,8 +268,8 @@ export default function OrigamiVector() {
           y2="371.287"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5788FF" />
-          <stop offset="1" stop-color="#004BFF" />
+          <stop stopColor="#5788FF" />
+          <stop offset="1" stopColor="#004BFF" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_3155_2213"
@@ -279,8 +279,8 @@ export default function OrigamiVector() {
           y2="357.357"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#004CFF" />
-          <stop offset="1" stop-color="#8C8692" />
+          <stop stopColor="#004CFF" />
+          <stop offset="1" stopColor="#8C8692" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_3155_2213"
@@ -290,8 +290,8 @@ export default function OrigamiVector() {
           y2="422.845"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#004BFF" />
-          <stop offset="1" stop-color="white" />
+          <stop stopColor="#004BFF" />
+          <stop offset="1" stopColor="white" />
         </linearGradient>
         <clipPath id="clip0_3155_2213">
           <rect

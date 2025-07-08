@@ -1,5 +1,5 @@
 :root {
-   /* Font families */
+  /* Font families */
   --INTER_THIN: 'custom-font-thin';
   --INTER_LIGHT: 'custom-font-light';
   --INTER_REGULAR: 'custom-font-regular';
@@ -10,17 +10,24 @@
 
   /* Colors */
   --BLACK: #000000;
-  --BLUE: #5380EA;
-  --BLUE-800: #004BFF;
-  --GREY-600: #D1D5DB;
-  --GREY-900: #F9FAFB;
-  --WHITE: #FFFFFF;
+  --BLUE: #5380ea;
+  --BLUE-800: #004bff;
+  --GREY-600: #d1d5db;
+  --GREY-900: #f9fafb;
+  --WHITE: #ffffff;
   --TRANSPARENT: TRANSPARENT;
   --DARK-900: #030712;
 
   /* Dimensions */
-  --DEFAULT_FONT_SIZE: 16px;
   --DEFAULT_MAX_WIDTH: 1280px;
+
+  /* Breakpoints */
+  --BREAKPOINT_SM: 640px;
+  --BREAKPOINT_MD: 768px;
+  --BREAKPOINT_LG: 1024px;
+  --BREAKPOINT_XL: 1280px;
+  --BREAKPOINT_2XL: 1536px;
+  --BREAKPOINT_3XL: 1920px;
 }
 
 html,

@@ -1,6 +1,6 @@
 import { LogoIcon } from '@/assets/Icons';
 import React from 'react';
-import classes from './DefaultHeader.module.css';
+import classes from './DefaultHeader.module.scss';
 
 const DefaultHeader: React.FC = () => {
   return (
