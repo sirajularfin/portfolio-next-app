@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.heading {
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  color: var(--grey-600);
+  font-family: var(--inter-light);
+  font-size: 24px;
+  line-height: 32px;
+  padding: 4px 20px;
+  border-bottom-width: 12px;
+  border-image: linear-gradient(90deg, var(--blue-800), var(--blue));
+  text-align: center;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+.description {
+  color: var(--grey-600);
+  font-size: 16px;
+  font-family: var(--inter-light);
+  line-height: 24px;
+  margin: 20px 0;
+}

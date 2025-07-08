@@ -1,0 +1,49 @@
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: var(--DEFAULT_MAX_WIDTH);
+  padding: 1rem 0;
+}
+
+.menuItemsWrapper {
+  display: flex;
+  margin: 0;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.menuItems {
+  color: var(--GREY-600);
+  cursor: pointer;
+  font-family: var(--INTER_MEDIUM);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  list-style: none;
+}
+
+.menuItems:hover {
+  color: var(--WHITE);
+  cursor: pointer;
+}
+
+.contactButton {
+  background-color: var(--TRANSPARENT);
+  border-color: var(--BLUE-800);
+  border-radius: 0.75rem;
+  border-style: solid;
+  border-width: 0.1875rem;
+  box-shadow: 0px 0px 7.6px var(--BLUE-800);
+  color: var(--GREY-600);
+  cursor: pointer;
+  font-family: var(--INTER_MEDIUM);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  min-height: 0;
+  padding: 0.375rem 1rem;
+}
+
+.contactButton:hover {
+  color: var(--WHITE);
+}
